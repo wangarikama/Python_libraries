@@ -1,17 +1,18 @@
-Python Data Analysis and Visualization
+**Python Data Analysis and Visualization** 
+
 This project demonstrates basic data analysis and visualization using Python.
 
-Features
-NumPy: Numerical operations like mean, max, min, and array manipulations.
+**Features**
+# NumPy: Numerical operations like mean, max, min, and array manipulations.
 
-Pandas: Creating and analyzing small datasets.
+# Pandas: Creating and analyzing small datasets.
 
-Matplotlib: Bar charts, line graphs, and pie charts.
+# Matplotlib: Bar charts, line graphs, and pie charts.
 
-Requests: Fetching data from a public API.
+# Requests: Fetching data from a public API.
 
-Tasks Covered
-NumPy Array Operations
+**Tasks Covered**
+1. NumPy Array Operations
 
 Create arrays from 1 to 10 and 10 to 50.
 
@@ -19,26 +20,26 @@ Calculate mean, max, and min.
 
 Multiply arrays by a constant.
 
-Pandas DataFrame
+2. Pandas DataFrame
 
 Create a student dataset.
 
 Display summary statistics.
 
-API Request
+3. API Request
 
 Fetch posts from a public JSONPlaceholder API.
 
 Print basic response data.
 
-Data Visualizations
+4. Data Visualizations
 
-Bar Chart: Population by country.
+(i) Bar Chart: Population by country.
 
-Line Graphs:
+(ii)Line Graphs:
 
 Sales over months.
 
 Temperature changes during the day.
 
-Pie Chart: Time spent on daily activities.
+(iii) Pie Chart: Time spent on daily activities.
